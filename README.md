@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jogomez97
-- 👀 Data Engineer @ Glovo
-- 🌱 dbt advocate and data geek
-- 📫 Reach me by email: jo_gomez97@hotmal.com!
+- 👨🏻‍💻 Software Engineer @ Datadog
+- 🌱 Currently working on Change Data Capture solutions 
+- 📫 Reach me by email: jogomezgomez97@gmail.com!
 
 <!---
 jogomez97/jogomez97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
